@@ -1,0 +1,652 @@
+[
+    {
+        "segment_text": "Every afternoon, as they were coming from school, the children used to go and play in the Giant's garden.",
+        "segment_id": "seg_c0_s0_0000",
+        "scene_id": "garden_before_giant_return",
+        "scene_description": "lush garden, flowering peach trees, soft green grass, birds singing in trees",
+        "scene_noise_name": "jungle_forest_bird_chirping_daytime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170200/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_bird_chirping_daytime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290241/selfish_giant/audios/callirrhoe/seg_c0_s0_0000.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290254/selfish_giant/audios/enceladus/seg_c0_s0_0000.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/garden_before_giant_return.jpg"
+    },
+    {
+        "segment_text": "It was a large lovely garden, with soft green grass. Here and there over the grass stood beautiful flowers like stars, and there were twelve peach-trees that in the spring-time broke out into delicate blossoms of pink and pearl, and in the autumn bore rich fruit.",
+        "segment_id": "seg_c0_s1_0001",
+        "scene_id": "garden_before_giant_return",
+        "scene_description": "lush garden, flowering peach trees, soft green grass, birds singing in trees",
+        "scene_noise_name": "jungle_forest_bird_chirping_daytime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170200/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_bird_chirping_daytime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290269/selfish_giant/audios/callirrhoe/seg_c0_s1_0001.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290284/selfish_giant/audios/enceladus/seg_c0_s1_0001.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/garden_before_giant_return.jpg"
+    },
+    {
+        "segment_text": "The birds sat on the trees and sang so sweetly that the children used to stop their games in order to listen to them. 'How happy we are here!' they cried to each other.",
+        "segment_id": "seg_c0_s2_0002",
+        "scene_id": "garden_before_giant_return",
+        "scene_description": "lush garden, flowering peach trees, soft green grass, birds singing in trees",
+        "scene_noise_name": "jungle_forest_bird_chirping_daytime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170200/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_bird_chirping_daytime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290295/selfish_giant/audios/callirrhoe/seg_c0_s2_0002.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290306/selfish_giant/audios/enceladus/seg_c0_s2_0002.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/garden_before_giant_return.jpg"
+    },
+    {
+        "segment_text": "One day the Giant came back. He had been to visit his friend the Cornish ogre, and had stayed with him for seven years.",
+        "segment_id": "seg_c0_s3_0003",
+        "scene_id": "giant_return_wall_building",
+        "scene_description": "walled garden, notice board, high stone walls, castle in background",
+        "scene_noise_name": "city_construction_ambience_traffic",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168086/ambient_sound_library/City/city_construction_ambience_traffic.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290315/selfish_giant/audios/callirrhoe/seg_c0_s3_0003.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290325/selfish_giant/audios/enceladus/seg_c0_s3_0003.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_return_wall_building.jpg"
+    },
+    {
+        "segment_text": "After the seven years were over he had said all that he had to say, for his conversation was limited, and he determined to return to his own castle. When he arrived he saw the children playing in the garden.",
+        "segment_id": "seg_c0_s4_0004",
+        "scene_id": "giant_return_wall_building",
+        "scene_description": "walled garden, notice board, high stone walls, castle in background",
+        "scene_noise_name": "city_construction_ambience_traffic",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168086/ambient_sound_library/City/city_construction_ambience_traffic.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290337/selfish_giant/audios/callirrhoe/seg_c0_s4_0004.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290348/selfish_giant/audios/enceladus/seg_c0_s4_0004.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_return_wall_building.jpg"
+    },
+    {
+        "segment_text": "'What are you doing here?' he cried in a very gruff voice, and the children ran away.",
+        "segment_id": "seg_c0_s5_0005",
+        "scene_id": "giant_return_wall_building",
+        "scene_description": "walled garden, notice board, high stone walls, castle in background",
+        "scene_noise_name": "city_construction_ambience_traffic",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168086/ambient_sound_library/City/city_construction_ambience_traffic.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290355/selfish_giant/audios/callirrhoe/seg_c0_s5_0005.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290363/selfish_giant/audios/enceladus/seg_c0_s5_0005.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_return_wall_building.jpg"
+    },
+    {
+        "segment_text": "'My own garden is my own garden,' said the Giant; 'any one can understand that, and I will allow nobody to play in it but myself.'",
+        "segment_id": "seg_c0_s6_0006",
+        "scene_id": "giant_return_wall_building",
+        "scene_description": "walled garden, notice board, high stone walls, castle in background",
+        "scene_noise_name": "city_construction_ambience_traffic",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168086/ambient_sound_library/City/city_construction_ambience_traffic.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290375/selfish_giant/audios/callirrhoe/seg_c0_s6_0006.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290386/selfish_giant/audios/enceladus/seg_c0_s6_0006.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_return_wall_building.jpg"
+    },
+    {
+        "segment_text": "So he built a high wall all round it, and put up a notice-board. TRESPASSERS WILL BE PROSECUTED",
+        "segment_id": "seg_c0_s7_0007",
+        "scene_id": "giant_return_wall_building",
+        "scene_description": "walled garden, notice board, high stone walls, castle in background",
+        "scene_noise_name": "city_construction_ambience_traffic",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168086/ambient_sound_library/City/city_construction_ambience_traffic.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290395/selfish_giant/audios/callirrhoe/seg_c0_s7_0007.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290403/selfish_giant/audios/enceladus/seg_c0_s7_0007.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_return_wall_building.jpg"
+    },
+    {
+        "segment_text": "He was a very selfish Giant. The poor children had now nowhere to play.",
+        "segment_id": "seg_c0_s8_0008",
+        "scene_id": "children_outside_wall",
+        "scene_description": "dusty road, hard stones, high garden wall, gloomy atmosphere",
+        "scene_noise_name": "city_traffic_pass_by_cobblestone",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167715/ambient_sound_library/City/city_traffic_pass_by_cobblestone.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290412/selfish_giant/audios/callirrhoe/seg_c0_s8_0008.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290419/selfish_giant/audios/enceladus/seg_c0_s8_0008.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/children_outside_wall.jpg"
+    },
+    {
+        "segment_text": "They tried to play on the road, but the road was very dusty and full of hard stones, and they did not like it. They used to wander round the high wall when their lessons were over, and talk about the beautiful garden inside.",
+        "segment_id": "seg_c0_s9_0009",
+        "scene_id": "children_outside_wall",
+        "scene_description": "dusty road, hard stones, high garden wall, gloomy atmosphere",
+        "scene_noise_name": "city_traffic_pass_by_cobblestone",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167715/ambient_sound_library/City/city_traffic_pass_by_cobblestone.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290430/selfish_giant/audios/callirrhoe/seg_c0_s9_0009.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290443/selfish_giant/audios/enceladus/seg_c0_s9_0009.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/children_outside_wall.jpg"
+    },
+    {
+        "segment_text": "'How happy we were there,' they said to each other.",
+        "segment_id": "seg_c0_s10_0010",
+        "scene_id": "children_outside_wall",
+        "scene_description": "dusty road, hard stones, high garden wall, gloomy atmosphere",
+        "scene_noise_name": "city_traffic_pass_by_cobblestone",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167715/ambient_sound_library/City/city_traffic_pass_by_cobblestone.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290447/selfish_giant/audios/callirrhoe/seg_c0_s10_0010.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290452/selfish_giant/audios/enceladus/seg_c0_s10_0010.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/children_outside_wall.jpg"
+    },
+    {
+        "segment_text": "Then the Spring came, and all over the country there were little blossoms and little birds. Only in the garden of the Selfish Giant it was still Winter.",
+        "segment_id": "seg_c0_s11_0011",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290461/selfish_giant/audios/callirrhoe/seg_c0_s11_0011.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290472/selfish_giant/audios/enceladus/seg_c0_s11_0011.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "The birds did not care to sing in it as there were no children, and the trees forgot to blossom. Once a beautiful flower put its head out from the grass, but when it saw the notice-board it was so sorry for the children that it slipped back into the ground again, and went off to sleep.",
+        "segment_id": "seg_c0_s12_0012",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290488/selfish_giant/audios/callirrhoe/seg_c0_s12_0012.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290509/selfish_giant/audios/enceladus/seg_c0_s12_0012.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "The only people who were pleased were the Snow and the Frost. 'Spring has forgotten this garden,' they cried, 'so we will live here all the year round.'",
+        "segment_id": "seg_c0_s13_0013",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290520/selfish_giant/audios/callirrhoe/seg_c0_s13_0013.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290529/selfish_giant/audios/enceladus/seg_c0_s13_0013.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "The Snow covered up the grass with her great white cloak, and the Frost painted all the trees silver. Then they invited the North Wind to stay with them, and he came.",
+        "segment_id": "seg_c0_s14_0014",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290540/selfish_giant/audios/callirrhoe/seg_c0_s14_0014.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290551/selfish_giant/audios/enceladus/seg_c0_s14_0014.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "He was wrapped in furs, and he roared all day about the garden, and blew the chimney-pots down. 'This is a delightful spot,' he said, 'we must ask the Hail on a visit.'",
+        "segment_id": "seg_c0_s15_0015",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290561/selfish_giant/audios/callirrhoe/seg_c0_s15_0015.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290572/selfish_giant/audios/enceladus/seg_c0_s15_0015.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "So the Hail came. Every day for three hours he rattled on the roof of the castle till he broke most of the slates, and then he ran round and round the garden as fast as he could go. He was dressed in grey, and his breath was like ice.",
+        "segment_id": "seg_c0_s16_0016",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290589/selfish_giant/audios/callirrhoe/seg_c0_s16_0016.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290605/selfish_giant/audios/enceladus/seg_c0_s16_0016.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "'I cannot understand why the Spring is so late in coming,' said the Selfish Giant, as he sat at the window and looked out at his cold white garden; 'I hope there will be a change in the weather.'",
+        "segment_id": "seg_c0_s17_0017",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290618/selfish_giant/audios/callirrhoe/seg_c0_s17_0017.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290631/selfish_giant/audios/enceladus/seg_c0_s17_0017.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "But the Spring never came, nor the Summer. The Autumn gave golden fruit to every garden, but to the Giant's garden she gave none. 'He is too selfish,' she said.",
+        "segment_id": "seg_c0_s18_0018",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290644/selfish_giant/audios/callirrhoe/seg_c0_s18_0018.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290660/selfish_giant/audios/enceladus/seg_c0_s18_0018.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "So it was always Winter there, and the North Wind, and the Hail, and the Frost, and the Snow danced about through the trees.",
+        "segment_id": "seg_c0_s19_0019",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290668/selfish_giant/audios/callirrhoe/seg_c0_s19_0019.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290688/selfish_giant/audios/enceladus/seg_c0_s19_0019.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "One morning the Giant was lying awake in bed when he heard some lovely music. It sounded so sweet to his ears that he thought it must be the King's musicians passing by.",
+        "segment_id": "seg_c0_s20_0020",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290700/selfish_giant/audios/callirrhoe/seg_c0_s20_0020.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290711/selfish_giant/audios/enceladus/seg_c0_s20_0020.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "It was really only a little linnet singing outside his window, but it was so long since he had heard a bird sing in his garden that it seemed to him to be the most beautiful music in the world.",
+        "segment_id": "seg_c0_s21_0021",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290721/selfish_giant/audios/callirrhoe/seg_c0_s21_0021.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290745/selfish_giant/audios/enceladus/seg_c0_s21_0021.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "Then the Hail stopped dancing over his head, and the North Wind ceased roaring, and a delicious perfume came to him through the open casement. 'I believe the Spring has come at last,' said the Giant; and he jumped out of bed and looked out.",
+        "segment_id": "seg_c0_s22_0022",
+        "scene_id": "winter_trapped_garden",
+        "scene_description": "snow-covered garden, frosted silver trees, cold white landscape, castle with chimney",
+        "scene_noise_name": "strong_wind_vegetation_lakeside",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170892/ambient_sound_library/Wind/strong_wind_vegetation_lakeside.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290758/selfish_giant/audios/callirrhoe/seg_c0_s22_0022.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290774/selfish_giant/audios/enceladus/seg_c0_s22_0022.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/winter_trapped_garden.jpg"
+    },
+    {
+        "segment_text": "What did he see? He saw a most wonderful sight.",
+        "segment_id": "seg_c0_s23_0023",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290781/selfish_giant/audios/callirrhoe/seg_c0_s23_0023.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290786/selfish_giant/audios/enceladus/seg_c0_s23_0023.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "Through a little hole in the wall the children had crept in, and they were sitting in the branches of the trees. In every tree that he could see there was a little child.",
+        "segment_id": "seg_c0_s24_0024",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290798/selfish_giant/audios/callirrhoe/seg_c0_s24_0024.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290808/selfish_giant/audios/enceladus/seg_c0_s24_0024.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "And the trees were so glad to have the children back again that they had covered themselves with blossoms, and were waving their arms gently above the children's heads. The birds were flying about and twittering with delight, and the flowers were looking up through the green grass and laughing.",
+        "segment_id": "seg_c0_s25_0025",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290826/selfish_giant/audios/callirrhoe/seg_c0_s25_0025.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290842/selfish_giant/audios/enceladus/seg_c0_s25_0025.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "It was a lovely scene, only in one corner it was still Winter. It was the farthest corner of the garden, and in it was standing a little boy.",
+        "segment_id": "seg_c0_s26_0026",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290851/selfish_giant/audios/callirrhoe/seg_c0_s26_0026.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290876/selfish_giant/audios/enceladus/seg_c0_s26_0026.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "He was so small that he could not reach up to the branches of the tree, and he was wandering all round it, crying bitterly. The poor tree was still quite covered with frost and snow, and the North Wind was blowing and roaring above it.",
+        "segment_id": "seg_c0_s27_0027",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290889/selfish_giant/audios/callirrhoe/seg_c0_s27_0027.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290901/selfish_giant/audios/enceladus/seg_c0_s27_0027.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "'Climb up! little boy,' said the Tree, and it bent its branches down as low as it could; but the little boy was too tiny.",
+        "segment_id": "seg_c0_s28_0028",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290909/selfish_giant/audios/callirrhoe/seg_c0_s28_0028.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290920/selfish_giant/audios/enceladus/seg_c0_s28_0028.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "And the Giant's heart melted as he looked out. 'How selfish I have been!' he said; 'now I know why the Spring would not come here. I will put that poor little boy on the top of the tree, and then I will knock down the wall, and my garden shall be the children's playground for ever and ever.'",
+        "segment_id": "seg_c0_s29_0029",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290935/selfish_giant/audios/callirrhoe/seg_c0_s29_0029.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290951/selfish_giant/audios/enceladus/seg_c0_s29_0029.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "He was really very sorry for what he had done. So he crept downstairs and opened the front door quite softly, and went out into the garden.",
+        "segment_id": "seg_c0_s30_0030",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290960/selfish_giant/audios/callirrhoe/seg_c0_s30_0030.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290970/selfish_giant/audios/enceladus/seg_c0_s30_0030.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "But when the children saw him they were so frightened that they all ran away, and the garden became Winter again. Only the little boy did not run, for his eyes were so full of tears that he died not see the Giant coming.",
+        "segment_id": "seg_c0_s31_0031",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748290984/selfish_giant/audios/callirrhoe/seg_c0_s31_0031.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291001/selfish_giant/audios/enceladus/seg_c0_s31_0031.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "And the Giant stole up behind him and took him gently in his hand, and put him up into the tree. And the tree broke at once into blossom, and the birds came and sang on it, and the little boy stretched out his two arms and flung them round the Giant's neck, and kissed him.",
+        "segment_id": "seg_c0_s32_0032",
+        "scene_id": "spring_returns_garden",
+        "scene_description": "blossoming trees, birds flying, flowers in grass, partially snowy corner",
+        "scene_noise_name": "jungle_forest_wind_birds_chirping",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747170169/ambient_sound_library/Jungle%20and%20Forest/jungle_forest_wind_birds_chirping.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291015/selfish_giant/audios/callirrhoe/seg_c0_s32_0032.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291037/selfish_giant/audios/enceladus/seg_c0_s32_0032.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/spring_returns_garden.jpg"
+    },
+    {
+        "segment_text": "And the other children, when they saw that the Giant was not wicked any longer, came running back, and with them came the Spring. 'It is your garden now, little children,' said the Giant, and he took a great axe and knocked down the wall.",
+        "segment_id": "seg_c0_s33_0033",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291050/selfish_giant/audios/callirrhoe/seg_c0_s33_0033.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291065/selfish_giant/audios/enceladus/seg_c0_s33_0033.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "And when the people were gong to market at twelve o'clock they found the Giant playing with the children in the most beautiful garden they had ever seen. All day long they played, and in the evening they came to the Giant to bid him good-bye.",
+        "segment_id": "seg_c0_s34_0034",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291079/selfish_giant/audios/callirrhoe/seg_c0_s34_0034.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291091/selfish_giant/audios/enceladus/seg_c0_s34_0034.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "'But where is your little companion?' he said: 'the boy I put into the tree.' The Giant loved him the best because he had kissed him.",
+        "segment_id": "seg_c0_s35_0035",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291100/selfish_giant/audios/callirrhoe/seg_c0_s35_0035.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291110/selfish_giant/audios/enceladus/seg_c0_s35_0035.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "'We don't know,' answered the children; 'he has gone away.' 'You must tell him to be sure and come here to-morrow,' said the Giant.",
+        "segment_id": "seg_c0_s36_0036",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291120/selfish_giant/audios/callirrhoe/seg_c0_s36_0036.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291129/selfish_giant/audios/enceladus/seg_c0_s36_0036.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "But the children said that they did not know where he lived, and had never seen him before; and the Giant felt very sad. Every afternoon, when school was over, the children came and played with the Giant.",
+        "segment_id": "seg_c0_s37_0037",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291139/selfish_giant/audios/callirrhoe/seg_c0_s37_0037.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291156/selfish_giant/audios/enceladus/seg_c0_s37_0037.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "But the little boy whom the Giant loved was never seen again. The Giant was very kind to all the children, yet he longed for his first little friend, and often spoke of him. 'How I would like to see him!' he used to say.",
+        "segment_id": "seg_c0_s38_0038",
+        "scene_id": "giant_plays_with_children",
+        "scene_description": "garden without walls, flowering trees, market road nearby, lush greenery",
+        "scene_noise_name": "city_school_recess_kids_playing",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747167944/ambient_sound_library/City/city_school_recess_kids_playing.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291167/selfish_giant/audios/callirrhoe/seg_c0_s38_0038.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291185/selfish_giant/audios/enceladus/seg_c0_s38_0038.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/giant_plays_with_children.jpg"
+    },
+    {
+        "segment_text": "Years went over, and the Giant grew very old and feeble. He could not play about any more, so he sat in a huge armchair, and watched the children at their games, and admired his garden.",
+        "segment_id": "seg_c0_s39_0039",
+        "scene_id": "elderly_giant_garden",
+        "scene_description": "flourishing garden, huge armchair, colorful flowers, aged stone castle",
+        "scene_noise_name": "city_ambience_kids_playing_nighttime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168012/ambient_sound_library/City/city_ambience_kids_playing_nighttime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291196/selfish_giant/audios/callirrhoe/seg_c0_s39_0039.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291208/selfish_giant/audios/enceladus/seg_c0_s39_0039.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/elderly_giant_garden.jpg"
+    },
+    {
+        "segment_text": "'I have many beautiful flowers,' he said; 'but the children are the most beautiful flowers of all.'",
+        "segment_id": "seg_c0_s40_0040",
+        "scene_id": "elderly_giant_garden",
+        "scene_description": "flourishing garden, huge armchair, colorful flowers, aged stone castle",
+        "scene_noise_name": "city_ambience_kids_playing_nighttime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168012/ambient_sound_library/City/city_ambience_kids_playing_nighttime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291216/selfish_giant/audios/callirrhoe/seg_c0_s40_0040.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291224/selfish_giant/audios/enceladus/seg_c0_s40_0040.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/elderly_giant_garden.jpg"
+    },
+    {
+        "segment_text": "One winter morning he looked out of his window as he was dressing. He did not hate the Winter now, for he knew that it was merely the Spring asleep, and that the flowers were resting.",
+        "segment_id": "seg_c0_s41_0041",
+        "scene_id": "elderly_giant_garden",
+        "scene_description": "flourishing garden, huge armchair, colorful flowers, aged stone castle",
+        "scene_noise_name": "city_ambience_kids_playing_nighttime",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168012/ambient_sound_library/City/city_ambience_kids_playing_nighttime.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291235/selfish_giant/audios/callirrhoe/seg_c0_s41_0041.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291246/selfish_giant/audios/enceladus/seg_c0_s41_0041.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/elderly_giant_garden.jpg"
+    },
+    {
+        "segment_text": "Suddenly he rubbed his eyes in wonder, and looked and looked. It certainly was a marvellous sight.",
+        "segment_id": "seg_c0_s42_0042",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291254/selfish_giant/audios/callirrhoe/seg_c0_s42_0042.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291262/selfish_giant/audios/enceladus/seg_c0_s42_0042.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "In the farthest corner of the garden was a tree quite covered with lovely white blossoms. Its branches were all golden, and silver fruit hung down from them, and underneath it stood the little boy he had loved.",
+        "segment_id": "seg_c0_s43_0043",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291275/selfish_giant/audios/callirrhoe/seg_c0_s43_0043.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291289/selfish_giant/audios/enceladus/seg_c0_s43_0043.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "Downstairs ran the Giant in great joy, and out into the garden. He hastened across the grass, and came near to the child.",
+        "segment_id": "seg_c0_s44_0044",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291301/selfish_giant/audios/callirrhoe/seg_c0_s44_0044.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748291311/selfish_giant/audios/enceladus/seg_c0_s44_0044.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "And when he came quite close his face grew red with anger, and he said, 'Who hath dared to wound thee?' For on the palms of the child's hands were the prints of two nails, and the prints of two nails were on the little feet.",
+        "segment_id": "seg_c0_s45_0045",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301554/selfish_giant/audios/callirrhoe/seg_c0_s45_0045.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301569/selfish_giant/audios/enceladus/seg_c0_s45_0045.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "'Who hath dared to wound thee?' cried the Giant; 'tell me, that I may take my big sword and slay him.' 'Nay!' answered the child; 'but these are the wounds of Love.'",
+        "segment_id": "seg_c0_s46_0046",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301579/selfish_giant/audios/callirrhoe/seg_c0_s46_0046.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301590/selfish_giant/audios/enceladus/seg_c0_s46_0046.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "'Who art thou?' said the Giant, and a strange awe fell on him, and he knelt before the little child.",
+        "segment_id": "seg_c0_s47_0047",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301598/selfish_giant/audios/callirrhoe/seg_c0_s47_0047.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301606/selfish_giant/audios/enceladus/seg_c0_s47_0047.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "And the child smiled on the Giant, and said to him, 'You let me play once in your garden, to-day you shall come with me to my garden, which is Paradise.'",
+        "segment_id": "seg_c0_s48_0048",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301616/selfish_giant/audios/callirrhoe/seg_c0_s48_0048.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301626/selfish_giant/audios/enceladus/seg_c0_s48_0048.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    },
+    {
+        "segment_text": "And when the children ran in that afternoon, they found the Giant lying dead under the tree, all covered with white blossoms.",
+        "segment_id": "seg_c0_s49_0049",
+        "scene_id": "final_encounter_paradise",
+        "scene_description": "golden-branched tree, white blossoms, silver fruit, winter morning light",
+        "scene_noise_name": "church_bell_melodic_ambience_birds",
+        "scene_noise_url": "https://res.cloudinary.com/db1nxglyq/video/upload/v1747168587/ambient_sound_library/Church%20Bells/church_bell_melodic_ambience_birds.wav",
+        "tts_urls": {
+            "callirrhoe_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301634/selfish_giant/audios/callirrhoe/seg_c0_s49_0049.wav",
+            "enceladus_original": "https://res.cloudinary.com/db1nxglyq/video/upload/v1748301645/selfish_giant/audios/enceladus/seg_c0_s49_0049.wav"
+        },
+        "scene_image_url": "https://cdn.jsdelivr.net/gh/Mohaned5/odyssey-images@main/selfishgiant/final_encounter_paradise.jpg"
+    }
+]
